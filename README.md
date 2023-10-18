@@ -6,4 +6,4 @@ This respository consists of code for the Predictive Analysis Course at [SAIT](h
 In this unit we worked with basic objects in r: variables, vectors, matrices, lists, and dataframes.
 
 ## Assignments
-- Assignment 1: Working with Dataframes
+- [Assignment 1: Working with Dataframes](https://github.com/katym23/predictive-analysis-course/blob/main/assignment_1.R)
