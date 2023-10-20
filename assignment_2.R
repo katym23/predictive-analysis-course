@@ -87,7 +87,7 @@ titanic_df$adult_male <- as.factor(titanic_df$adult_male)
 titanic_df$alive <- as.factor(titanic_df$alive)
 titanic_df$alone <- as.factor(titanic_df$alone)
 
-# recording columns to put related columns beside each other
+# re-ordering columns to put related columns beside each other
 
 titanic_df <- titanic_df %>% 
   select(survived, pclass, age, sex, who, adult_male, num_sib_spouse, 
