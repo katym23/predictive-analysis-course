@@ -8,6 +8,10 @@ In this unit we worked with basic objects in r: variables, vectors, matrices, li
 ## Unit 3 - Data Wrangling
 In this unit we learned about strategies to clean and wrangle data using the tidyverse packages in R, and learned how to do basic visualizations with ggplot.
 
+## Unit 4 - SQL
+In this unit we learned to connect R to SQL and execute SQL queries from within R studio.
+
 ## Assignments
 - [Assignment 1: Working with Dataframes](https://github.com/katym23/predictive-analysis-course/blob/main/assignment_1.R)
 - [Assignment 2: Data Wrangling and Visualization](https://github.com/katym23/predictive-analysis-course/blob/main/assignment_2.R)
+- [Assignment 3: Using SQL in R](https://github.com/katym23/predictive-analysis-course/blob/main/assignment_3.html)
