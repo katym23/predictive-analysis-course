@@ -12,10 +12,14 @@ In this unit we learned about strategies to clean and wrangle data using the tid
 In this unit we learned to connect R to SQL and execute SQL queries from within R studio.
 
 ## Unit 5 - Supervised Learning
-So far in this unit we have learned three types of supervised learning: linear regression, polynomial regression, and K Nearest Neighbours.
+In this unit we have learned three types of supervised learning: linear regression, polynomial regression, and K Nearest Neighbours.
+
+## Unit 6 - Unsupervised Learning
+In this unit we learned how to do clustering in R.
 
 ## Assignments
 - [Assignment 1: Working with Dataframes](https://github.com/katym23/predictive-analysis-course/blob/main/assignment_1.R)
 - [Assignment 2: Data Wrangling and Visualization](https://github.com/katym23/predictive-analysis-course/blob/main/assignment_2.R)
 - [Assignment 3: Using SQL in R](https://github.com/katym23/predictive-analysis-course/blob/main/assignment_3.R)
 - [Assignment 4: Linear Regression](https://github.com/katym23/predictive-analysis-course/blob/main/assignment_4.R)
+- [Assignment 5: K-Means Algorithm](https://github.com/katym23/predictive-analysis-course/blob/main/assignment_5.R)
